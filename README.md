@@ -6,6 +6,5 @@ Saya seorang **Mahasiswa Informatika** di UPN Veteran Jakarta dengan fokus pemin
 
 Saat ini saya aktif di Kelompok Studi Mahasiswa Robotika karena ketertarikan saya dengan AI.<br>
 
-Jika ingin berkenalan dan berinteraksi lebih lanjut, silakan hubungi saya di:
-[Instagram]([https://www.instagram.com/_alsxi/]).
+Jika ingin berkenalan dan berinteraksi lebih lanjut, silakan hubungi saya di [Instagram](https://www.instagram.com/_alsxi/).
 
